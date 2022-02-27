@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief observations upon the present distresses of the publick with some account of the causes thereof, viz. the corruptions in the government. Humbly presented to the consideration of the Lords and Commons in Parliament assembled. By Robert Crosfeild.</title>
+            <author>Crosfeild, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81055</idno>
+            <idno type="STC">Wing C7241</idno>
+            <idno type="STC">ESTC R225365</idno>
+            <idno type="EEBO-CITATION">99896963</idno>
+            <idno type="PROQUEST">99896963</idno>
+            <idno type="VID">132871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brief observations upon the present distresses of the publick with some account of the causes thereof, viz. the corruptions in the government. Humbly presented to the consideration of the Lords and Commons in Parliament assembled. By Robert Crosfeild.</title>
+                  <author>Crosfeild, Robert.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Dated at end: Clerkenwel-Close, March 17. 1695/6.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:132871:1" rendition="simple:additions"/>
+            <head>BRIEF OBSERVATIONS UPON THE <hi>Preſent Diſtreſſes of the Publick.</hi> With ſome ACCOUNT of the Cauſes thereof, <hi>Viz.</hi> THE Corruptions in the Government.</head>
+            <head type="sub">Humbly Preſented to the Conſideration of the Lords and Commons in Parliament Aſſembled.</head>
+            <byline>By <hi>ROBERT CROSFEILD.</hi>
+            </byline>
+            <p>
+               <hi>First,</hi> I Shall obſerve to your Honours, the Prodigious and Immence ſumms of Mony that have been Expended this War in about ſeven years, which I Conceive is more than has been Rais'd in many Ages paſt, even down to the <hi>Norman</hi> Conqueſt, all which, together with the Ill Management, has brought the Nation to ſuch diſtreſs, by the great Decay and Ruine of Trade, and Univerſal Poverty of the middle ſort of people, That the poor are grown to ſuch vaſt Numbers, and do daily increaſe to ſuch a degree, That if a ſpeedy ſtop be not put to our Grievances, they will in a manner ere long be ready to eat the reſt of the people up alive; And further, it is ſad to conſider how a certain Cabal of Men, have made a prey of the publick all this War, for 'tis Demonſtrable that a Moyety of what has been Expended this Reign, (had it been Committed to the Management of wiſe and faithful Men) might with Gods bleſſing have given Laws to <hi>Europe,</hi> and long before this time, have brought our Enemies to a laſting, honourable and well Grounded Peace. Whereas thoſe that have hitherto been Intruſted, have Acted as if they were not willing to Con<g ref="char:EOLhyphen"/>quer our Enemies too ſoon, but rather deſired to turn the War into a Trade, and to ſqueeſe out even the very Marrow of the People to Inrich themſelves; for to our ſhame be it ſpoken, the Enemy at this day ſeems to be almoſt upon an equal Bal<g ref="char:EOLhyphen"/>lance with us, and the War as likely to Continue as ever.</p>
+            <p>
+               <hi>Secondly,</hi> That whereas during this great Action, and the raiſing ſuch vaſt ſumms of Mony, there ought to have been the greateſt Care and Strictneſs Immaginable to have examin'd Accounts and Puniſh'd all Tardy Officers, the direct Contra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y has
+<pb n="2" facs="tcp:132871:2"/>been practic'd, hardly any Accounts having been Regularly or ſtrictly Examin'd, Numerous, great and Notorious Frauds, and other Crimes paſs'd over in ſilence, and thoſe that according to Oath and Duty, have diſcover'd and laid open any Miſcarri<g ref="char:EOLhyphen"/>ages in the Government, have been ſhamefully oppreſs'd, Perſecuted and Ruin'd, for the Incouragement of Offenders, and the Terrour of all honeſt Men, to avoid all Acts of Duty for the future. For,</p>
+            <p>
+               <hi>Thirdly,</hi> The preſent <hi>Navy-Board,</hi> has been publickly accus'd of horrible practi<g ref="char:EOLhyphen"/>es in waſting the publick Treaſure: 1. By fraudulent Contracts. 2. By Countenan<g ref="char:EOLhyphen"/>cing, Incouraging, and Advocating vaſt Embezelments of the<note n="*" place="bottom">Amongſt the various Naval Frauds, I ſhall give the following Inſtance. A certain worthy Citizen of <hi>London,</hi> diſcover'd a parcel of Hemp, going under the Name of Rakings or Flyings, which was ſold as ſuch by the Navy-board for <hi>16</hi> Tun, <hi>12</hi> Hundred weight, at thirty Shillings <hi>per</hi> Tun, amounting to <hi>24</hi> 
+                  <abbr>l.</abbr> 
+                  <hi>18</hi> 
+                  <abbr>s.</abbr> being Goods, as they pretended, that were uſeleſs for the King's Service. But on the contrary, this perſon prov'd that the ſaid Goods were, <hi>Bona Fide,</hi> the Bands and Ribbs of Hemp, and that Inſtead of the above ſaid ſmall quantity, there was found about <hi>240</hi> Tun, <hi>70 or 80</hi> Tuns of which was actually deliver<g ref="char:EOLhyphen"/>ed, which the aforeſaid Citizen prov'd upon Oath to the Navy-Board, and offer'd <hi>15</hi> 
+                  <abbr>l.</abbr> a Tun for the ſame, but to no purpoſe, for the matter was stifled. And thus a great quantity of ſerviceable Hemp was Em<g ref="char:EOLhyphen"/>bezelled and pretended to be ſold under the Notion of Rakings or Flyings for only <hi>24</hi> 
+                  <abbr>l.</abbr> 
+                  <hi>18</hi> 
+                  <abbr>s.</abbr> and then ſold to the King again for good Hemp (as it really was) for about <hi>3000</hi> 
+                  <abbr>l.</abbr>
+                  <p>And this I can prove when requir'd, and I offer it as an Inſtance of the Method of thoſe Gentlemens Defrauding their King and Country under the Head of Embezelments, that none may wonder how they <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their Eſtates.</p>
+               </note> Kings ſtores. 3 By driving a Miſterious and Diabolical Trade in the poor Saylors Tickets, which are generally ſold at 10 or 12 ſhillings in the pound loſs, to a Curſed crew of Extorti<g ref="char:EOLhyphen"/>oners, kept up and Incourag'd by the <hi>Navy-Board,</hi> who ought to ſuppreſs them, alſo thouſands of poor Creatures are Robb'd of their Right, by the horrid Cuſtoms of putting Queries and Runs upon the Saylors Pay, the blood of whoſe periſhing fa<g ref="char:EOLhyphen"/>milies does now cry aloud for Vengeance againſt the Nation, their dreadful Miſeries having been hitherto diſregarded, tho often laid open in Print, and offered to be pro<g ref="char:EOLhyphen"/>ved.</p>
+            <p>By all which Curſed Practices the Commiſſioners of the <hi>Navy,</hi> have gotten vaſt Eſtates: ſome of them, that were Clerks, and not worth Two Hundred Pounds at the Revolution, have openly and publickly laid out about Twenty Thou<g ref="char:EOLhyphen"/>ſand Pound in purchaſes, beſides the vaſt ſumms of Money lying by them: Whereas admitting they have been Commiſſioners of the <hi>Navy</hi> ſeven years, their Salary at 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> is but 3500 <abbr>
+                  <hi>l.</hi>
+               </abbr> And for ſuch Men to make ſuch purchaſes, beſides the Charge of Maintaining their Families, keeping their Coaches, <hi>&amp;c.</hi> I conceive is one clear Demonſtration of the publicks being Cheated. But further, ſome of theſe Gentlemen have been accus'd, of being diſaf<g ref="char:EOLhyphen"/>fected to the Government, holding Conſtant and Private Conſults with the Kings known Enemies, ſuch as pay double Taxes. All which crimes and many more too long to inſert, have moſt part been prov'd before the Admiralty, <hi>&amp;c.</hi> And the reſt laid before them and offer'd to be prov'd, but have all been quaſh'd in a ſtrange and unaccountable manner, and the <hi>Navy-Board</hi> hath Contrary to Law, Juſtice, and the Intereſt of the Nation, been protected, and kept in their Employments, to this day; whereby they and all the Numerous Train of their ſubordinate offenders, have been Incourag'd in their Crimes, to the great Ruin of the King and Kingdom.</p>
+            <p>
+               <hi>Fourthly,</hi> The Lords of the Admiralty (under whoſe Jurisdiction the <hi>Navy-Board</hi> is) have been publickly accus'd for Stifling, Concealing, and Incouraging their Crimes, and Diſcouraging and Ruining thoſe that laid them open; part of which has alſo been prov'd againſt their Lordſhips, and the reſt offer'd to be prov'd; But all has been ſtrangely quaſh'd, and their Lordſhips remain in Commiſſion at this day, as if no Evil had been laid to their Charge.</p>
+            <p>
+               <hi>Fifthly,</hi> The preſent Commiſſioners for Sick and Wounded, have been likewiſe accus'd by Mr. <hi>Baſton,</hi> one of their Clerks (who laid down his Employment) of horrible Crimes, of holding an unlawful Correſpondence with the <hi>French</hi> all this War, to the betraying the Kings Councils, and alſo uſing the <hi>French</hi> Priſoners here in ſo barbarous a manner, by cheating them of their Allowance of Victuals, <hi>&amp;c.</hi>
+               <pb n="3" facs="tcp:132871:2"/>that thouſands of our Poor <hi>Engliſh</hi> Captives in <hi>France</hi> loſt their Lives, and Periſh'd through the Cruelty of the <hi>French,</hi> only by way of Reprizal; alſo they were ac<g ref="char:EOLhyphen"/>cus'd of Cheating the King in their Accounts, and uſing the Sick and Wounded Seamen barbarouſly in the Hoſpital at <hi>Plymouth,</hi> with other great Miſcarriages; all which was twice fully prov'd againſt them, almoſt two years ſince, in a Juditial Manner, by his Majeſties ſpecial order: 1. Before the Lords of the Admiralty, and 2. Before the Lords of the Council, and two Reports made of the truth thereof; and alſo the aforemention'd Crimes, have been a third time prov'd againſt them, before the late Commiſſioners for ſtating the publick Accounts, where ſome of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Witneſſes appear'd to be Notoriouſly perjur'd: And laſtly the ſaid Mr. <hi>Baſton,</hi> at the opening the preſent Seſſion of Parliament, Printed and Publiſh'd, his caſe, (Containing only matter of fact) being a full Account of the Crimes three times prov'd againſt the ſaid Commiſſioners, all which i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quaſh'd, and Law, and Juſtice, ſtopt from taking place, and the ſaid Commiſſioner. <hi>Viat Armis,</hi> Incourag'd, ſup<g ref="char:EOLhyphen"/>ported, upheld, and kept in their Employments to this Day.</p>
+            <p>AND now it may be conſidered, If the aforeſaid Crimes had ever been call'd to ſincere and hearty Examination, and any of thoſe perſons puniſh'd in earneſt, that were found to be Criminal, then all the Corruption and Fraud in the Government might have been ſoon laid open: For the <hi>horrible Cabal of the Nations Deſtroyers,</hi> would have been divided, and they would have Impeach'd and Accus'd one ano<g ref="char:EOLhyphen"/>ther, when they ſaw the Government was reſolv'd to proceed againſt them in Ear<g ref="char:EOLhyphen"/>neſt.</p>
+            <p>But on the contrary, all imaginable Care has been taken to huſh up, and ſtifle all manner of Crimes, by diſcouraging, perſecuting and Ruining ſuch perſons as have, according to Oath, and Duty, endeavour'd to lay them open; and alſo the worſt, and moſt abominable Criminals, Traitors to God and their Country, have been en<g ref="char:EOLhyphen"/>couraged, protected, and preferr'd; All which pernicious Examples have tended not only to confirm Tardy Officers in their Wicked Practices, but alſo to debauch thoſe few Honeſt Gentlemen that were left in publick Employments: For it is in Effect giving Publick Notice, with divers Evidences of woful Examples, That the way to keep an Employment, and get an Eſtate, is to break the Law, betray ones Coun<g ref="char:EOLhyphen"/>try, and act all manner of Wickedneſs. And that on the contrary, to practice Ho<g ref="char:EOLhyphen"/>neſty, neither to Cheat King or Country, nor ſuffer others to do it, without diſcover<g ref="char:EOLhyphen"/>ing the ſame, and to diſcharge ones Duty faithfully, in all the Branches thereof, is the certain way to be utterly Ruin'd, Begger'd, and Deſtroy'd.</p>
+            <p>And now certainly, no Conſidering Man can be much ſurpriz'd at the breaking out of the preſent Damnable and Helliſh Plot, to Aſſaſſinate His Majeſty's Sacred Perſon, and ſubvert the Government: But rather admire the wonderful Providence of God, that his Majeſty has ſat ſafe in his Throne ſo long, in regard ſo great a Number of his known Enemies have been Thruſt into, and hitherto Kept in his Ser<g ref="char:EOLhyphen"/>vice: And how our King or Country can be ſafe with ſo few real Friends, and ſo ma<g ref="char:EOLhyphen"/>ny and powerful Enemies both at home and abroad, is beyond my apprehenſion to Conceive; Nay, 'tis Demonſtrably plain, that our Enemies at home, By their Su<g ref="char:EOLhyphen"/>perlative Covetouſneſs, Fraud, Pride, Negligence, Ignorance, <hi>&amp;c.</hi> Have done us much more miſchief than all the power of <hi>France</hi> this War; for the Cabal of our Enemies at home are ſo Strong, and their Power ſo Great, That his Majeſties Royal Perſon with the Laws, Eſtates, and Liberties, of his loving Subjects, ſeems to be Be<g ref="char:EOLhyphen"/>ſieg'd and Surrounded by them, and to call aloud for your Honours Aſſiſtance to Diſperſe this <hi>Wretched Crew,</hi> before they grow too ſtrong for the Parliament it ſelf, Or till our wickedneſs ſpreads it ſelf ſo far, that all come to be Offenders, and ſo our Crimes grow too Bulky to be ever Examin'd into at all, and reduce us to ſuch a wretched Condition, as to verify the Words of the Poet <hi>Lucan,</hi> who ſays: <hi>Where all offend the Crimes unpuniſhable,</hi> And then our utter and final Ruin muſt unavoida<g ref="char:EOLhyphen"/>bly follow.</p>
+            <p>God grant there may not be Cauſe to Record of this Nation in Ages to come, That notwithſtanding the wonderful Revolution that God wrought for them, and Reſcued them from Popery and Slavery; and notwithſtanding the great advantage of a Wiſe, Good, Valiant, and true Proteſtant King to Reign over them, and alſo the
+<pb n="4" facs="tcp:132871:3" rendition="simple:additions"/>Immenſe Riches they poſſeſs'd, and all the other Advantages of the Strength, Num<g ref="char:EOLhyphen"/>ber, Courage and Bravery, of their Forces, by Sea and Land, <hi>&amp;c.</hi> all which was more than ſufficient to have ſoon lower'd their Enemies, and brought them into ſubjection. Yet were they, by their own ſordid Covetouſneſs, and Wickedneſs within themſelves, ſhamefully brought to Beggery, Ruin and Slavery. I ſay, God grant we may not give our own Poſterity, and other Nations, this Cauſe to Curſe and Contemn us.</p>
+            <p>The above Grievances have been publickly complain'd of, and offered to be pro<g ref="char:EOLhyphen"/>ved, for theſe ſeveral Years paſs'd, as alſo laid open in Print the laſt Seſſion, and this Seſſion of Parliament, by me and others, tho hitherto quaſh'd or over-rul'd: And I having this Seſſion of Parliament Exhibited a Petition and Articles in the Houſe of Peers (where it is now depending) Complaining of the aforeſaid Corruptions and Grievances; and having humbly pray'd in my ſaid Petition, That the Matters therein contain'd may be brought to a Legal Hearing, I do again make the ſame Humble Requeſt in the behalf of my Country; (which has been, and is ſorely Op<g ref="char:EOLhyphen"/>preſs'd by the aforeſaid Evil Practices;) and ſhall think it my Duty to perſiſt in the ſame, until I be Legally heard, or Commanded by the Government to Ceaſe: being able fully to prove whatever I have ſet forth.</p>
+            <closer>
+               <dateline>
+                  <hi>Clerkenwel-Cloſe,</hi> 
+                  <date>
+                     <hi>March</hi> 17. 1695/6.</date>
+               </dateline>
+               <signed>Robert Crosfeild.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
